@@ -1,6 +1,6 @@
 # GraphQL API with MongoDB
 
-This project demonstrates a simple GraphQL API using MongoDB with Mongoose.
+This project demonstrates a simple GraphQL API using Nodejs , ExpressJs and MongoDB with Mongoose.
 
 ## Installation
 
