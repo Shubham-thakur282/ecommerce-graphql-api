@@ -42,7 +42,7 @@ createVariant(variantInput): Create a new variant.
 
 ## GraphQL Schema
 
-See [SCHEMA.md](SCHEMA.md) for the detailed GraphQL schema.
+See [schema.md](schema.md) for the detailed GraphQL schema.
 
 ## Entity-Relationship (ER) Diagram
 
